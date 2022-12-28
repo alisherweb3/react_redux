@@ -24,6 +24,7 @@ For creating react app // React App yaratish uchun - command stroke da mana buni
 npx create-react-app my-app
 cd my-app
 npm start
+```
 
 <img src="img/vscode.png">
 
