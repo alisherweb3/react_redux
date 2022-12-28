@@ -15,3 +15,13 @@ adding React to html in head .
  ```html
  <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
  ```
+
+
+
+For creating react app // React App yaratish uchun - command stroke da mana buni yozing
+
+```
+npx create-react-app my-app
+cd my-app
+npm start
+
