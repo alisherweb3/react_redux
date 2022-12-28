@@ -26,5 +26,5 @@ cd my-app
 npm start
 ```
 
-<img src="img/vscode.png">
+<img src="img/vscode1.png">
 
