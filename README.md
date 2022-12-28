@@ -28,3 +28,6 @@ npm start
 
 <img src="img/vscode1.png">
 
+Va React ishlashga tayyor.
+
+localhost:3000 bilan brauzerda buni tekshirib ko'rishingiz mumkin.
